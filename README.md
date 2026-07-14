@@ -3,7 +3,8 @@
 **AROMA English for Working Professionals**
 
 ---
-
+Confidentiality & Data Disclosure Notice
+This BI report and project documentation are shared as a portfolio sample for illustrative purposes only. All sensitive and proprietary business data — including revenue figures, deal counts, conversion values, cost metrics, and other confidential financial information — has been redacted. Only non-sensitive information that the company has authorized for public disclosure is shown (for example, the aggregate close-rate metric). The dashboards, structure, labels, and methodology are presented to demonstrate the scope and design of the work, not to disclose actual business results. No confidential company data is exposed in this document.
 ## 1. Project Summary
 
 Designed and led the rollout of an enterprise **Revenue Operations (RevOps)** system for AROMA — a multi-branch English-training company operating across Hanoi and Ho Chi Minh City — replacing fragmented, branch-specific sales processes and siloed spreadsheets with a **single, standardized customer process running end-to-end across five functions: Marketing → Telesales → Sales → Training → Accounting.**
